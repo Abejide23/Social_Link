@@ -1,0 +1,141 @@
+@font-face {
+    font-family: Inter;
+    src: url('./font/Inter-Regular.ttf');
+}
+
+body{
+    background-color: black;
+    height: 100vh;
+}
+
+.parent_container {
+    background-color: rgba(48, 47, 47, 0.78);
+    height: 90%;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+ }
+
+           
+ 
+
+.name{ font-size: large;
+     font-weight: bold;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    font-family: inter;
+}
+
+
+
+.small_text {
+    color: yellow;
+    padding: 120px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100px;
+  font-family:   Inter;
+
+}
+.litle_text{
+    color: white;
+    text-align: center;
+font-family: inter;
+    padding: 20px;
+    font-size:large;
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.rectangle{
+background-color: rgb(66, 65, 65);
+height: 30px;
+width: 280px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+
+}
+.name-1{
+    color:white;
+    text-align: center;
+    padding-top: 7px;
+    font-family: inter;
+}
+
+
+
+.rectangle{
+    background-color: rgba(180, 180, 178, 0.062);
+    height: 30px;
+    width: 280;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.name-2{
+    color: white;
+    text-align: center;
+    padding-top: 7px;
+    font-family: inter;
+}
+
+
+.rectangle{ background-color: rgba(180, 180, 178, 0.062);
+    height: 30px;
+    width: 280;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.name-3{
+    color: white;
+    text-align: center;
+ padding-top: 7px;
+ font-family: inter;
+}
+
+.rectangle{
+    background-color: rgba(180, 180, 178, 0.062);
+    height: 30px;
+    width: 280px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name-4{
+    color: white;
+    text-align: center;
+    padding-top: 7px;
+    font-family: inter;
+}
+
+.pc{
+margin-left: 130px;
+    
+    
+    border-radius: 65px;
+    height: 130px;
+    width: 130px;
+
+     }           
+
+
+
+
+
+
+
+    
+
+    
+
+
+    
+    
